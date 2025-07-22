@@ -5,7 +5,6 @@
 📈 SEO, Google Ads, Email Automation, Content Strategy  
 🌍 Based in Dhaka, Bangladesh
 
----
 
 ### 💡 What I Do
 - Boost plugin visibility on WordPress.org through metadata optimization & keyword research
@@ -14,14 +13,12 @@
 - Conduct in-depth competitor analysis to improve pricing, positioning, and features
 - Build outreach programs with influencers and affiliate marketers
 
----
 
 ### 🛠️ Current Focus
 - 🔍 Improving WP Project Manager’s WordPress.org SEO
 - 🧠 Creating internal documentation and automation flowcharts
 - 📊 Reporting & analytics for ads, SEO, and automation performance
 
----
 
 ### 📚 Learn More About Me  
 🌐 [Portfolio & Blog](https://muhammadarifhossain.com)  
@@ -29,7 +26,6 @@
 📧 Email: hi@muhammadarifhossain.com  
 📍 Dhaka, Bangladesh
 
----
 
 ### 🤝 Let's Collaborate!
 If you're a WordPress developer, plugin creator, or educator — let’s connect to share ideas, optimize visibility, and create better products together.
